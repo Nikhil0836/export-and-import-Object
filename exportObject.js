@@ -1,3 +1,3 @@
-const fullName = { firstName: "John", lastName: " Wilson" };
+const fullName = { firstName: "John", lastName: "Wilson" };
 
 module.exports = fullName;
